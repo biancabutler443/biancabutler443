@@ -6,6 +6,16 @@ I'm an open-source contributor focused on building practical, well-documented to
 
 I enjoy working at the intersection of developer experience, infrastructure, and automation, and I'm especially drawn to projects that value clarity over complexity.
 
+## ☕ Support & Contribute
+
+If you find my work helpful or want to support the development of open-source tools that make developers' lives easier, consider supporting my work! Your contributions help me continue building practical, well-documented tools and developer kits that can help you in your daily work. Whether it's through code contributions, feedback, or support, every bit helps the open-source community grow stronger.
+
+<div align="center">
+  <a href="https://buymeacoffee.com/biancabutler" target="_blank">
+    <img src="https://i.ibb.co/MDqdKbxF/08f1cf468ace518fc8cc9e352a2e613f-1.png" alt="Buy Me A Coffee" style="height: 60px; width: 217px;">
+  </a>
+</div>
+
 ## 🔧 What I Contribute To
 
 ### Developer tooling
@@ -41,16 +51,6 @@ I enjoy working at the intersection of developer experience, infrastructure, and
 - Early-stage OSS projects
 - Developer productivity tools
 - Tools that reduce cognitive load for engineers
-
-## ☕ Support & Contribute
-
-If you find my work helpful or want to support the development of open-source tools that make developers' lives easier, consider supporting my work! Your contributions help me continue building practical, well-documented tools and developer kits that can help you in your daily work. Whether it's through code contributions, feedback, or support, every bit helps the open-source community grow stronger.
-
-<div align="center">
-  <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
-    <img src="https://i.ibb.co/MDqdKbxF/08f1cf468ace518fc8cc9e352a2e613f-1.png" alt="Buy Me A Coffee" style="height: 60px; width: 217px;">
-  </a>
-</div>
 
 ---
 
