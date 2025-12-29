@@ -42,6 +42,16 @@ I enjoy working at the intersection of developer experience, infrastructure, and
 - Developer productivity tools
 - Tools that reduce cognitive load for engineers
 
+## ☕ Support & Contribute
+
+If you find my work helpful or want to support the development of open-source tools that make developers' lives easier, consider supporting my work! Your contributions help me continue building practical, well-documented tools and developer kits that can help you in your daily work. Whether it's through code contributions, feedback, or support, every bit helps the open-source community grow stronger.
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
+    <img src="https://i.ibb.co/MDqdKbxF/08f1cf468ace518fc8cc9e352a2e613f-1.png" alt="Buy Me A Coffee" style="height: 60px; width: 217px;">
+  </a>
+</div>
+
 ---
 
 *This repository serves as a landing page and portfolio for my open-source contributions.*
